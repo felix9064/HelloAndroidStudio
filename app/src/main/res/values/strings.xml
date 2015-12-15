@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAS</string>
+    <string name="action_settings">Settings</string>
+    <string name="loveYou">老婆，我爱你</string>
+    <string name="login">登录</string>
+    <string name="longTextView">老婆说发帖的标题一定要很长很长很长很长，才会有人来看的，诺，我做到了</string>
+    <string name="autoCompleteTextViewTips">请输入要搜索的关键字</string>
+</resources>
