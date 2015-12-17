@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="noMatch">很遗憾，你没有中奖，请再接再厉！</string>
+    <string name="yesMatch">恭喜你，你中奖啦！</string>
+    <string name="turnOn">开</string>
+    <string name="turnOff">关</string>
+</resources>
